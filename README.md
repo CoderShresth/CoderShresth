@@ -1,10 +1,10 @@
-- 👋 Hello everyone viewing my profile, I’m @CoderShresth
-- 👀 I’m interested in web develoopment and other languages...
-- 🌱 I’m currently learning Java...
-- 💞️ I’m looking to collaborate on many projects...
-- 📫 You can reach me on my mail id...
-
-<!---
-CoderShresth/CoderShresth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am **Shresth**, a student currently studying in class *9th*, who started coding *2 years ago*.
+I know many languages including **HTML**, **CSS**, **Javascript**, **NodeJS**, **ReactJS**.
+I also have learned *MERN stack*.
+I have made many websites including:
+ • **WorldlyChat ** (http://worldly-chat.herokuapp.com/)
+ • **Amma's Kitchen** (https://saumyaguptalfmd.github.io/Restaurant/)
+I have also created a suite of programs that promote businesses online, they are:
+ • **Name Extractor** which scrapes company names from google and adds to database
+ • **Mail Extractor** which uses the extracted names and again scrapes email id's of those companies
+ • **Mailer **which uses the extracted mails and can send upto 700 emails a day for marketing
