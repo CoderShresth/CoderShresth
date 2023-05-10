@@ -1,4 +1,4 @@
-I am **Shresth**, a student currently studying in class *9th*, who started coding *2 years ago*.
+I am **Shresth**, a student currently studying in class *11th*, who started coding *2 years ago*.
 I know many languages including **HTML**, **CSS**, **Javascript**, **NodeJS**, **ReactJS**.
 I also have learned *MERN stack*.
 I have made many websites including:
